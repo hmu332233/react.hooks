@@ -18,5 +18,8 @@
   "homepage": "https://github.com/hmu332233/react.hooks#readme",
   "peerDependencies": {
     "react": "^16.9.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@hmu332233"
   }
 }
