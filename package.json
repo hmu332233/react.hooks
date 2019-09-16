@@ -1,0 +1,22 @@
+{
+  "name": "@hmu332233/react.hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hooks/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmu332233/react.hooks.git"
+  },
+  "author": "minung.han",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmu332233/react.hooks/issues"
+  },
+  "homepage": "https://github.com/hmu332233/react.hooks#readme",
+  "peerDependencies": {
+    "react": "^16.9.0"
+  }
+}
