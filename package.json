@@ -1,5 +1,5 @@
 {
-  "name": "@hmu332233/react.hooks",
+  "name": "react.hooks",
   "version": "1.0.0",
   "description": "",
   "main": "hooks/index.js",
